@@ -24,10 +24,10 @@ I care about writing clean, well-documented code and building things that actual
 
 | Project | Description | Tech |
 |---|---|---|
-| [🧪 QA Automation Suite](.../qa-automation-suite) | Automated test suite using Selenium & pytest for real websites | Python, Selenium, pytest |
-| [🤖 AI Interview Prep Assistant](../ai-interview-prep) | Claude-powered app that generates interview Q&A from job descriptions | Python, Claude API |
-| [🏥 SQL Hospital Database](../sql-hospital-db) | HIPAA-aware patient management DB with complex queries | SQL, PostgreSQL |
-| [🐛 Bug Tracker App](../bug-tracker-app) | Full-stack web app to log, track & close bugs | Python, Flask, HTML/CSS/JS |
+| [🧪 QA Automation Suite](https://github.com/bhoomikb/qa-automation-suite) | Automated test suite using Selenium & pytest for real websites | Python, Selenium, pytest |
+| [🤖 AI Interview Prep Assistant](https://github.com/bhoomikb/ai-interview-prep) | Claude-powered app that generates interview Q&A from job descriptions | Python, Claude API |
+| [🏥 SQL Hospital Database](https://github.com/bhoomikb/sql-hospital-db) | HIPAA-aware patient management DB with complex queries | SQL, PostgreSQL |
+| [🐛 Bug Tracker App](https://github.com/bhoomikb/bug-tracker-app) | Full-stack web app to log, track & close bugs | Python, Flask, HTML/CSS/JS |
 
 ---
 
