@@ -14,7 +14,7 @@
 
 ### 👩‍💻 About Me
 
-I'm a Computer Science graduate from Ocean County College with hands-on experience in **manual QA testing, Python automation, SQL, and cloud platforms (GCP & AWS)**. I'm also one of the few entry-level candidates who holds all **4 Anthropic AI certifications** — AI Fluency, Claude API, MCP, and Claude Code.
+I'm a Computer Science graduate from Ocean County College with hands-on experience in **manual QA testing, Python automation, SQL, and cloud platforms (GCP & AWS)**. An entry-level candidates who holds all **4 Anthropic AI certifications** — AI Fluency, Claude API, MCP, and Claude Code.
 
 I care about writing clean, well-documented code and building things that actually solve real problems.
 
