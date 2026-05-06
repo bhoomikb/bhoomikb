@@ -14,7 +14,7 @@
 
 ### 👩‍💻 About Me
 
-I am a Computer Science graduate with a strong foundation in **manual QA testing, Python automation, and SQL.** After transitioning from a professional background in healthcare, I’ve dedicated myself to mastering modern AI tools and currently hold all **4 Anthropic AI certifications** (AI Fluency, Claude API, MCP, and Claude Code). I am passionate about writing clean, well-documented code and delivering high-quality software solutions.
+I hold an **Associate of Science in Computer Science** with a focus on Information Technology. I am an entry-level candidate specialized in **Manual & Automated QA Testing** and currently hold **all 4 Anthropic AI certifications.** I am passionate about Python automation and building reliable software solutions.
 
 ---
 
